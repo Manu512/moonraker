@@ -11,3 +11,6 @@ start_moonraker
 .pdm-python
 build
 dist
+src/example_package/__init__.py
+tests/__init__.py
+.gitignore
